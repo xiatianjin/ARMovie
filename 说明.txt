@@ -1,0 +1,7 @@
+ARMove是在移动平台上播放的视频的demo
+工具：
+1.unity4.6 
+2.高通AR https://developer.vuforia.com/ Vuforia SDK v4.0.105
+
+3.Mobile Movie Texture 2.1.2
+
